@@ -1,0 +1,7 @@
+.trail-container {
+    background-color: #913cf9;
+}
+.trail-image {
+    background: linear-gradient(to top, #9D4FFA 10%, #913CF9 30%);
+    border-radius: 0px 100px;
+}

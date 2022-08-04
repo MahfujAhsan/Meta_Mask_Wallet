@@ -1,0 +1,15 @@
+.footer-heading {
+    font-family: "Alfa Slab One", cursive;
+    font-size: 24px;
+}
+
+.links-container div h2 {
+    font-family: "Alfa Slab One", cursive;
+    font-size: 18px;
+    color: #fff;
+    margin-top: 15px;
+}
+
+.links-container div div a {
+    color: #fff;
+}

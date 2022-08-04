@@ -1,0 +1,43 @@
+.home-sub-heading img {
+  margin-right: 15px;
+}
+.home-sub-heading {
+  display: flex;
+  align-items: center;
+  font-family: "Alfa Slab One", cursive;
+  letter-spacing: 0.2em;
+  font-size: 16px;
+}
+.home-heading {
+  font-family: "Alfa Slab One", cursive;
+  font-size: 102px;
+  line-height: 100px;
+  letter-spacing: 0.1em;
+}
+.home-heading h1 span {
+  font-size: 82px;
+  letter-spacing: 0.2em;
+  transform: rotate(-12deg);
+}
+.learn-btn {
+  color: #efb700;
+}
+.hero-img {
+    position: relative;
+}
+.background {
+    transform: rotate(-25deg);
+}
+
+@media only screen and (max-width: 600px) {
+  .home-sub-heading {
+    font-size: 10px;
+  }
+  .home-heading {
+    font-size: 82px;
+    line-height: 88px;
+  }
+  .home-heading h1 span {
+    font-size: 56px;
+  }
+}
